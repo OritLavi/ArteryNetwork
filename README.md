@@ -1,12 +1,25 @@
 # ArteryNetwork
 
 This repository contains the code for our [paper](link):
-
-> Paper info
-
 If you find the code useful for your research, please cite our paper:
 
-> Paper reference
+# Under Revision in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI / PAMI) 
+
+# Tracking the adaptation and compensation processes of patients’ brain arterial network to an evolving glioblastoma 
+
+Junxi Zhu1, Spencer Teolis1, Nadia Biassou 2, Amy Tabb 3, Pierre-Emmanuel Jabin 4, Orit Lavi 1*
+
+1.	Integrative Cancer Dynamics Unit, Laboratory of Cell Biology, CCR, NCI, NIH
+2.	Radiology and Imaging Sciences, Clinical Center, NIH
+3.	United States Department of Agriculture, Agricultural Research Service, Appalachian Fruit Research Station
+4.	Department of Mathematics, Center for Scientific Computation and Mathematical Modeling, University of Maryland 
+5.	Integrative Cancer Dynamics Unit, Laboratory of Cell Biology, CCR, NCI, NIH. 	
+*Corresponding author: orit.lavi@nih.gov
+
+Abstract 
+
+The brain’s vascular network dynamically affects its development and core functions. It rapidly responds to abnormal conditions by adjusting properties of the network, aiding stabilization and regulation of brain activities. Tracking prominent arterial changes has clear clinical and surgical advantages. However, the arterial network functions as a system; thus, local changes may imply global compensatory effects that could impact the dynamic progression of a disease. We developed automated personalized system-level analysis methods of the compensatory arterial changes and mean blood flow behavior from a patient’s clinical images. By applying our approach to data from a patient with aggressive brain cancer compared with healthy individuals, we found unique spatiotemporal patterns of the arterial network that could assist in predicting the evolution of glioblastoma over time. Our personalized approach provides a valuable analysis tool that could augment current clinical assessments of the progression of glioblastoma and other neurological disorders affecting the brain.
+
 
 # Note
 
